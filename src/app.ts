@@ -11,7 +11,7 @@ const person : Tperson = {
 }
 const persons : Tperson[]=[
     {id : 1, name:"huong" , age:20 , status:true},
-    {id : 1, name:"huonghhh" , age:20 , status:false},
+    {id : 1, name:"huonghhh111111" , age:20 , status:false},
 ]
 console.log(person.name);
 
