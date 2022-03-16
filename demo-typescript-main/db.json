@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone XS",
+      "title": "Verygood",
+      "price": "29000000"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 4 ",
+      "title": "Verygood",
+      "price": "290000"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 9 ",
+      "title": "Verygood",
+      "price": "2900000"
+    }
+  ]
+}
